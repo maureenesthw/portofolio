@@ -1,4 +1,3 @@
-import React from 'react'
 import { githubIcon, instagramIcon, linkedInIcon, mailIcon, mediumIcon } from '../assets/icons'
 
 const Hero = () => {
